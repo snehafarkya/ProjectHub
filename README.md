@@ -9,6 +9,10 @@ ProjectHub is an app build using Next js App Router, Tailwind CSS, and TypeScrip
 5. Finally, to run locally, use `npm run dev` 
 6. The dashboard will open on `localhost:3000` 
 
+## Assumptions
+- The project data is stored in `data.ts` file. It has all the array's or hardcode data that is used in the app. 
+- A recent activity and task summary component is also added to display a production level product. You can find names of the team members, and overall completeness. 
+
 ## Features
 - This app can search the project using project name and client name. 
 - It also includes multiple filtering, that means you can view projects based on the status of it. It is built on client side.
@@ -20,9 +24,8 @@ ProjectHub is an app build using Next js App Router, Tailwind CSS, and TypeScrip
 - Reusable components are used to optimize app. 
 - The app is mobile-responsive as well. 
 
-## Assumptions
-- The project data is stored in `data.ts` file. It has all the array's or hardcode data that is used in the app. 
-- A recent activity and task summary component is also added to display a production level product. You can find names of the team members, and overall completeness. 
-
 ## Github: 
-The project is hosted on GitHub and here is the link: 
+The project is hosted on GitHub and here is the link: [Github](https://github.com/snehafarkya/ProjectHub)
+
+## Live Preview: 
+The project is deployed of vercel and here is the link: [Live Preview](https://projecthubdash.vercel.app/)

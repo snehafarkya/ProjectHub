@@ -5,6 +5,7 @@ In this project, I have built a dashboard that renders projects and display them
 -  Debugging layout and z-index issues
 - Hamburger component understanding for mobile responsiveness
 - Improving component structure suggestions
+- To resolve some typescript conflicts
 - Drafting small utility improvements and UI refinements
 
 ## What I Changed or Rejected
